@@ -1,4 +1,4 @@
-# Authorization Flow Code
+# Authorization Flow Code for Spotify API
 
 import os
 import requests
